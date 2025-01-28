@@ -1,0 +1,71 @@
+body {
+    background-image: URL(teglafal.jpg);
+}
+
+.hawk {
+    text-align: center;
+}
+.cim{
+    background-color: brown;
+    margin-left: 24%;
+    width: 50%;
+    height: 50%;
+}
+.kepkep{
+    margin-left: 30%;
+}
+
+.xdd{
+    color: white;
+    text-align: center;
+}
+#dolgok{
+    margin-left: 23.5%;
+}
+#kiscim{
+    color: brown;
+    background-color: white;
+    text-align: center;
+}
+
+#ajtok-content{
+    background-color: white;
+    width: 80%;
+    border-radius: 6%;
+    height: 450px;
+    float: left;
+}
+.cimcimcim{
+    margin-left: 6%;
+}
+#cimcimci{
+    margin-top: 7%;
+}
+.szoveg{
+    text-align: center;
+    font-size: 150%;
+}
+#ablakok-content{
+    background-color: white;
+    width: 80%;
+    border-radius: 6%;
+    height: 550px;
+    float: left;
+}
+#epitoanyag-content{
+    background-color: white;
+    width: 80%;
+    border-radius: 6%;
+    height: 350px;
+}
+
+.button-header:hover {
+    background-color: brown; /* Black background on hover */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.8); /* Glowing effect on hover */
+}
+.button-header{
+    transition: all 0.3s ease-in-out; /* Smooth transition for hover effect */
+}
+.xddd{
+    color: white;
+}
